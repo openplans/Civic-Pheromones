@@ -1,4 +1,3 @@
-== Civic Pheromones == 
 Easy info sharing about community projects.
 
 * Jose has an account on ioby.org, but his local rooftop farm decides to launch their campaign on Change By Us...
@@ -6,7 +5,8 @@ Easy info sharing about community projects.
 * Emma follows a list of environmental groups, but the maintainer of the list goes to grad school...
 * City Groups launches in Boston, but so does Yelp Community Edition...
 
-Civic Pheromones are simple data feeds from civic websites. Pheromones transmit various useful information:
+Civic Pheromones are simple data feeds from civic websites. Pheromones transmit various useful pieces of information:
+
 * where a project is based (geography)
 * what’s going on (meetings, events)
 * what the project does (topics, activities)
@@ -14,7 +14,8 @@ Civic Pheromones are simple data feeds from civic websites. Pheromones transmit 
 
 There’s no “there” there for Pheremones. No new website to follow. Civic Pheromones are invisible. They’re all about transmission of useful information from existing sources. We want to strengthen existing civic sites and reduce the silo-effect as new ones emerge. 
 
-== Let’s get smelly! ==
+Tell me more
+================
 
 To make pheromones useful, we need some publishers, and some aggregators. Here is a use case:
 
@@ -28,13 +29,44 @@ To make pheromones useful, we need some publishers, and some aggregators. Here i
 
 So what's actually going on?
 
-* the projects website already has a Content Management System, so they use a plugin to automatically general pheremones from the existing project database, including a timestamp for last update, etc. 
+* the first website has a Content Management System, so they add a plugin to automatically general pheremones from the existing project database, including a timestamp for last update, etc. 
 * the plugin publishes a machine readable feed of all projects, in JSON
-* the blog uses a different CMS, but there's a plugin for them too.
+* the blog uses a different CMS, but there's a plugin for it too.
 * their plugin fetches the feed, checks it for updates, and updates the map as needed.
 
-How did the blog know about the feed? 
-Feed discovery sites (like CityGoRound).
+How did the blog know about the feed? Feed discovery sites (like CityGoRound).
 
-== Background reading ==
+Let's get smelly!
+==================
+
+Big sites with their own APIs are all set.
+
+Existing project with no way to publish data need help. They need plugins or modules for their current publishing systems. 
+Bloggers need widgets.
+And there's a whole world of apps and maps that can be built on these data feeds.
+
+
+Sites that could be pheronominal!
+=================================
+
+Publishers 
+
+* Change By Us http://nyc.changeby.us/
+* ioby http://ioby.org
+* City Groups http://citygroups.org
+* Neighborland http://neighborland.org/
+* SpeakUpNY
+* other listings of civic orgs
+* active civic orgs
+
+Aggregators
+
+* Oasis NYC
+* all of the other publishers (break down those silos!)
+* news outlets 
+
+
+Background reading 
+==================
++ Open311 http://open311.org
 + Ether, a transparent medium that supports the transfer of essential information about community-led projects. http://opensourceplanning.org/2011/06/ether/
