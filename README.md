@@ -60,17 +60,19 @@ Sites that could be pheromoninal!
 
 Publishers 
 
-* Change By Us http://nyc.changeby.us/
-* ioby http://ioby.org
-* City Groups http://citygroups.org
-* Neighborland http://neighborland.org/
+* [Change By Us](http://nyc.changeby.us/)
+* [ioby](http://ioby.org)
+* [City Groups](http://citygroups.org)
+* [Neighborland](http://neighborland.org)
+* [Hey Neighbor!](http://heyneighbor.com/pages/about/about-us)
 * SpeakUpNY
 * other listings of civic orgs
 * well organized civic groups
 
 Aggregators
 
-* Oasis NYC
+* [Oasis NYC](oasisnyc.org)
+* [Neighborhoodr](http://neighborhoodr.com)
 * all sites publishing lists of civic engagement projects (break down those silos!)
 * news outlets 
 * volunteer coordinating websites
@@ -88,6 +90,7 @@ Meanwhile, many applications on the Web access this data and display it in usefu
 
 Background reading 
 ==================
-+ Open311 http://open311.org
-+ Open211 http://open211.org
-+ Ether, a transparent medium that supports the transfer of essential information about community-led projects. http://opensourceplanning.org/2011/06/ether/
++ [Open311](http://open311.org)
++ [Open211](http://open211.org)
++ [Trash and Recycling Object Notation](http://recollect.net/tron-spec.txt)
++ [Ether, a transparent medium that supports the transfer of essential information about community-led projects.](http://opensourceplanning.org/2011/06/ether)
