@@ -17,6 +17,7 @@ There’s no “there” there for Pheremones. No new website to follow. Civic P
 == Let’s get smelly! ==
 
 To make pheromones useful, we need some publishers, and some aggregators. Here is a use case:
+
 1. myCommunityProject.org is a community-building website for neighborhood projects. It lists projects led by local residents. 
 1. Jenny starts a local composting project, maintaining a drop-off site in the yard of a high school. She creates a project profile, including a map of the drop-off location.
 1. Unbeknownst to Jenny, myCommunityProject.org has built-in Pheromone support. Her project is smelly.
@@ -26,6 +27,7 @@ To make pheromones useful, we need some publishers, and some aggregators. Here i
 1. More composting takes place!
 
 So what's actually going on?
+
 * the projects website already has a Content Management System, so they use a plugin to automatically general pheremones from the existing project database, including a timestamp for last update, etc. 
 * the plugin publishes a machine readable feed of all projects, in JSON
 * the blog uses a different CMS, but there's a plugin for them too.
